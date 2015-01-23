@@ -1,4 +1,4 @@
-coinbase-wpecommerce
+paycoingateway-wpecommerce
 ====================
 
 Accept Paycoin on your WP-eCommerce powered website with PaycoinGateway.

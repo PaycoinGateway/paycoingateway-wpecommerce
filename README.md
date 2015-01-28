@@ -1,4 +1,4 @@
-paycoingateway-wpecommerce
+paycoingateway-wpecommerce Version 2.6.5
 ====================
 
 Accept Paycoin on your WP-eCommerce powered website with PaycoinGateway.
